@@ -42,8 +42,10 @@ void loop() {
             for (int n=1; n<5; n++)
             {
             client.print(responseHTML1);
-            }
+            client.print(n);
             client.print(responseHTML2);
+            }
+            client.print(responseHTML3);
            
             break;
           } else {
