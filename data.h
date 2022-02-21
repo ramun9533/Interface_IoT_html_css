@@ -90,10 +90,8 @@ const String responseHTML =  R"====(<!DOCTYPE html>
             <span id="span2"></span>
             <span id="span3"></span>
             <span id="span4"></span>
-            BOTON NEON
-        </a>
-        )====";
-  const String responseHTML2 =  R"====(      </body>
-
-    </html>
+            BOTON NEON )====";
+     const String responseHTML2  = R"====(     </a>  )====";
+       
+  const String responseHTML3 =  R"====(      </body>  </html>
      )====";
